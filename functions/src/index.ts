@@ -50,7 +50,7 @@ app.put('/update/:id', (req, res) => {
     res.send(hostel).status(200);
 });
 
-app.patch('/update3/:id', (req, res) => {
+app.patch('/update2/:id', (req, res) => {
     const data = req.body;
     const hostel = hostels.filter(value => value.id !== parseInt(req.params.id));
 
