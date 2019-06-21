@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b47892a7-fb17-43ee-a758-9b3c94804f59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b47892a7-fb17-43ee-a758-9b3c94804f59" name="Default Changelist" comment="Node Express">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -216,7 +215,7 @@
       <workItem from="1560844969280" duration="22256000" />
       <workItem from="1560951937342" duration="812000" />
       <workItem from="1561016584800" duration="33843000" />
-      <workItem from="1561102623331" duration="8607000" />
+      <workItem from="1561102623331" duration="8825000" />
     </task>
     <task id="LOCAL-00001" summary="Node Express">
       <created>1561112293058</created>
@@ -225,11 +224,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561112293058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Node Express">
+      <created>1561112357806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561112357806</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Node Express">
+      <created>1561112523679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561112523679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80067000" />
+    <option name="totallyTimeSpent" value="80285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -241,7 +254,7 @@
       <window_info id="npm" order="3" sideWeight="0.5088063" side_tool="true" weight="0.13660477" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49933687" visible="true" weight="0.17725259" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49933687" weight="0.17725259" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
