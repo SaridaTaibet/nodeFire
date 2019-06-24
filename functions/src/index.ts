@@ -10,19 +10,19 @@ admin.initializeApp();
 let hostels = [
     {
         id: 1,
-        name: 'hotel rose',
+        name: 'hotel rose1',
         roomNumbers: 10,
         pool: true
     },
     {
         id: 2,
-        name: 'hotel rose',
+        name: 'hotel rose2',
         roomNumbers: 10,
         pool: true
     },
     {
         id: 3,
-        name: 'hotel rose',
+        name: 'hotel rose3',
         roomNumbers: 11,
         pool: true
     }
@@ -51,12 +51,19 @@ app.put('/update/:id', (req, res) => {
     res.send(hostel).status(200);
 });*/
 
-app.patch('/update2/:id', (req, res) => {
+app.patch('/update1/:id', (req, res) => {
+    const [hostel] = hostels.filter(value => value.id === parseInt(req.params.id));
+    console.log(req.params.id);
     const data = req.body;
-    const hostel = hostels.filter(value => value.id !== parseInt(req.params.id));
-    let newhostel = Object.assign(hostel, data);
-    res.send(newhostel).status(200);
+    let newHostel = Object.assign(hostel, data);
+    res.send(newHostel).status(200);
 });
+
+
+
+   /* let newhostel = Object.assign(hostel, data);
+    res.send(newhostel).status(200);*/
+/*});*/
 
 /*app.patch('/hostels/:id', (req, res) => {
     const hostel = hostels.filter(value => value.id !== parseInt(req.params.id));

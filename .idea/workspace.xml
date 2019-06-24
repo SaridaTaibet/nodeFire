@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+            <state relative-caret-position="346">
+              <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -192,8 +192,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.serve" />
         <item itemvalue="npm.watch" />
+        <item itemvalue="npm.serve" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.test" />
       </list>
@@ -220,7 +220,8 @@
       <workItem from="1561112562181" duration="164000" />
       <workItem from="1561112761336" duration="6470000" />
       <workItem from="1561278749420" duration="5481000" />
-      <workItem from="1561302774155" duration="3321000" />
+      <workItem from="1561302774155" duration="3934000" />
+      <workItem from="1561374932855" duration="7787000" />
     </task>
     <task id="LOCAL-00001" summary="Node Express">
       <created>1561112293058</created>
@@ -271,20 +272,27 @@
       <option name="project" value="LOCAL" />
       <updated>1561118018541</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Node Express">
+      <created>1561315363707</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561315363707</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95721000" />
+    <option name="totallyTimeSpent" value="104121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49075976" visible="true" weight="0.18037136" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48870638" visible="true" weight="0.18037136" />
       <window_info id="Structure" order="1" sideWeight="0.507722" side_tool="true" weight="0.18037136" />
       <window_info id="Favorites" order="2" sideWeight="0.507722" side_tool="true" weight="0.18037136" />
-      <window_info id="npm" order="3" sideWeight="0.50924027" side_tool="true" visible="true" weight="0.18037136" />
+      <window_info id="npm" order="3" sideWeight="0.51129365" side_tool="true" visible="true" weight="0.18037136" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49933687" visible="true" weight="0.28064993" />
@@ -380,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="346">
+          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
