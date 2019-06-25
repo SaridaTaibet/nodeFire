@@ -40,7 +40,7 @@ app.get('/read/:id', (req, res) => {
     res.send(hostels[req.params.id]).status(200)
 });
 
-app.post('/create', (req, res) => {
+    app.post('/create', (req, res) => {
     hostels.push(req.body);
     res.send(hostels).status(201)
 });
@@ -71,6 +71,8 @@ app.delete('/delete', (req, res) => {
     hostels.push(req.body);
     res.send(hostels).status(200);
 });
+
+
 
 export const hello = functions.https.onRequest(app);
 
